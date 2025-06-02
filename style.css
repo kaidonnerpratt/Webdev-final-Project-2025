@@ -1,1 +1,16 @@
-
+:root{
+    --main-bg : #272727;
+    --main-cl : #FFFFFF;
+} 
+.cl-main{
+    color: var(--main-cl)
+}
+.bg-main{
+    background-color: var(--main-bg);
+}
+.page-width{
+    width: 80%;
+}
+.center{
+    margin: auto;
+}
