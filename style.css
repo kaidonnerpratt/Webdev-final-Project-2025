@@ -3,7 +3,7 @@
     --main-cl : #FFFFFF;
 } 
 .cl-main{
-    color: var(--main-cl)
+    color: var(--main-cl);
 }
 .bg-main{
     background-color: var(--main-bg);
