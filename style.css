@@ -5,6 +5,9 @@
 .ft-large{
     font-size: large;
 }
+.bg-lb{
+    background-color: #225588;
+}
 .cl-main{
     color: var(--main-cl);
 }
