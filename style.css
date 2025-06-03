@@ -2,6 +2,9 @@
     --main-bg : #003366;
     --main-cl : #FFFFFF;
 } 
+.ft-large{
+    font-size: large;
+}
 .cl-main{
     color: var(--main-cl);
 }
