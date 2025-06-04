@@ -6,6 +6,8 @@
     font-size: large;
 }
 .bg-lb{
+    border-radius: 10%;
+    padding: 5px;
     background-color: #225588;
 }
 .cl-main{
@@ -20,3 +22,4 @@
 .center{
     margin: auto;
 }
+
