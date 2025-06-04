@@ -22,6 +22,10 @@
 .center{
     margin: auto;
 }
+.container-fluid{
+    background-color: #acb9d3;  
+}
 .card{
     height : 30px;
 }
+
