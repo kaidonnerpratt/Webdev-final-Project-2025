@@ -19,7 +19,7 @@ function findscore(event){
         }
     }
 
-    res.innerHTML =((Math.round((correct/list.length)*10))/10)+"%"
+    res.innerHTML =((Math.round((correct/10)*10))*10)+"%"
 
 } 
 
