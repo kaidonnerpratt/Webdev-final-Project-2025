@@ -6,7 +6,7 @@
     font-size: large;
 }
 .bg-lb{
-    border-radius: 10%;
+    border-radius: 5px;
     padding: 5px;
     background-color: #225588;
 }
@@ -22,4 +22,6 @@
 .center{
     margin: auto;
 }
-
+.card{
+    height : 30px;
+}
