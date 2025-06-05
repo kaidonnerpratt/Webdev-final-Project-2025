@@ -6,8 +6,7 @@
     font-size: large;
 }
 .bg-lb{
-    border-radius: 5px;
-    padding: 5px;
+    padding: 5px  50px 5px 50px;
     background-color: #225588;
 }
 .cl-main{
@@ -25,7 +24,29 @@
 .container-fluid{
     background-color: #acb9d3;  
 }
+.card-img-top{
+    object-fit: cover;
+    height: 150px;
+}
+.card-deck{
+  display:flex;
+}
 .card{
-
+  width:100%;
+  margin: 2px;
+  font-size:15px;
+  border-radius: 10px;
+  overflow:hidden;
+  
 }
 
+.card-footer a{
+  width: 100%;
+  
+}
+
+.card-footer{
+  background-color:inherit;
+  padding: 10px;
+  border: 0px;
+}
