@@ -51,6 +51,12 @@
   
 }
 
+.bg-dark{
+    background-color: var( --main-bg);
+    color : var(--main-cl);
+
+}
+
 .card-footer{
   background-color:inherit;
   padding: 10px;
