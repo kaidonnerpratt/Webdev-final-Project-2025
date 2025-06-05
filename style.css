@@ -85,3 +85,6 @@ footer{
     color: var(--main-cl);
     margin: 0 10px;
 }
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
