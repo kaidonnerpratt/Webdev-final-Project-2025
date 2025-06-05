@@ -23,6 +23,8 @@
     margin: auto;
 }
 .container-fluid{
+    padding-top: 15px;
+    padding-bottom:15px;
     background-color: var(--main-txt-bg);  
 }
 .card-img-top{
