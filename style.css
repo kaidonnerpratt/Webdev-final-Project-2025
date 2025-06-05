@@ -53,3 +53,26 @@
   padding: 10px;
   border: 0px;
 }
+footer{
+    background-color: #222;
+    color: var(--main-cl);
+    padding: 30px 0;
+    text-align: center;
+}
+.footer-cont{
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 0 20px;
+}
+.footer-elm{
+    margin: 15px 0;
+}
+.footer-link{
+    color: var(--main-cl); 
+    margin: 0 15px; 
+    text-decoration: none;
+}
+.footer-redirect{
+    color: var(--main-cl);
+    margin: 0 10px;
+}
