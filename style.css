@@ -1,6 +1,7 @@
 :root{
     --main-bg : #003366;
     --main-cl : #FFFFFF;
+    --main-txt-bg: #336699;
 } 
 .ft-large{
     font-size: large;
@@ -22,7 +23,7 @@
     margin: auto;
 }
 .container-fluid{
-    background-color: #acb9d3;  
+    background-color: var(--main-txt-bg);  
 }
 .card-img-top{
     object-fit: cover;
