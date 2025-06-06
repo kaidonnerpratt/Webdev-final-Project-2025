@@ -106,3 +106,7 @@ body{
 .jumbotron{
     background-color: #bfd4e8;
 }
+
+html {
+  scroll-behavior: smooth;
+}
