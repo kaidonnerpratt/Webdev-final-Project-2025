@@ -56,6 +56,10 @@
     overflow: hidden;
     padding: 5px;
 }
+.img-cust img{
+    border-radius: 10px;
+
+}
 .card-footer a{
   width: 100%;
   
