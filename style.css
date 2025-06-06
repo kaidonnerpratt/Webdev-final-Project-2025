@@ -45,7 +45,17 @@
   overflow:hidden;
   
 }
-
+.bg-wh{
+    background-color: #FFFFFF;
+}
+.cl-dk{
+    color: #000000;
+}
+.img-cust{
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 5px;
+}
 .card-footer a{
   width: 100%;
   
